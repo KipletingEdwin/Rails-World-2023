@@ -218,5 +218,23 @@
     white-space: normal;
   }
 }
+ /* Speakers */
+
+ .speakers{
+  border: 1px solid white;
+  margin: 0px 10%;
+  
+ }
+
+ .speaker-title h2{
+  color: white;
+  font-weight: 900;
+  font-size: 40px;
+  width: 20%;
+  margin-left: 5%;
+  padding: 10px;
+  background-color: green;
+
+ }
 
 
