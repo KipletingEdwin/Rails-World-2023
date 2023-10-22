@@ -79,9 +79,144 @@
 
 @media screen and (max-width: 830px) {
 
+  .eventDate{
+    margin-left: 0%;
+    margin-right: 3%;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .eventDate img{
+    background-color: yellow;
+    width: 100%;
+
+  }
+
+
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 
 }
 
+.nav-links{
+  background-color: aqua;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
 
+.nav-links ul {
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  margin: 1%;
+  min-width: 15px;
+}
+
+.nav-links ul li {
+  background-color: olivedrab;
+  /* margin-right: 1%;
+  margin-left: 0 !important; */
+  margin: 1% 0;
+  width: 80%;
+  justify-content: space-evenly;
+}
+
+.nav-links ul li a{
+  background-color: blue;
+  font-size: 15px;
+  margin: 3px;
+  padding: 0px;
+}
+
+/* Venue js */
+
+}
+.venue{
+  border: 1px solid white;
+  margin: 0px 10%;
+  display: flex;
+  flex-direction: column;
+  border-top: none;
+}
+
+.venue h1{
+  /* background-color: green; */
+  font-weight: 800;
+  color: white;
+  font-size: 70px;
+}
+
+.venue p{
+  /* background-color: green; */
+  color: white;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.venue-link {
+  text-decoration: none;
+  color: white;
+}
+
+.venue-link:hover{
+  text-decoration: underline;
+
+}
+.venue button{
+  min-width: 150px;
+  background: rgba(239, 239, 239, 0.3);
+  color: rgba(255, 255, 255, 0.3);
+  border: 0;
+  margin: 10px 45%;
+  padding: 10px;
+  border-color: rgba(118, 118, 118, 0.3), rgba(195, 195, 195, 0.3);
+}
+
+.description{
+  border: 1px solid white;
+  margin: 0px 10%;
+  border-top: none;
+
+}
+
+.description p{
+  /* background-color: yellow; */
+  margin: 10px 19%;
+  padding: 10px;
+  line-height: 1.5;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.venue-container{
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width:830px){
+
+  .venue h1{
+    background-color: green;
+    font-size: 50px;
+    padding: 5px;
+    margin: 5px;
+
+  }
+
+  .venue button{
+    margin: 5px 15px;
+    min-width: 30px;
+    background-color: yellow;
+  }
+
+  .description p{
+    white-space: normal;
+  }
+}
 
 
