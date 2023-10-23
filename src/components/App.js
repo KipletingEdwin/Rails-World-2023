@@ -1,4 +1,5 @@
 import '../App.css';
+import Celebration from './Celebration';
 import Navbar from './Navbar';
 import Speakers from './Speakers';
 import Venue from './Venue';
@@ -9,6 +10,7 @@ function App() {
       <Navbar/>
       <Venue/>
       <Speakers/>
+      <Celebration/>
     </div>
   );
 }
