@@ -2,6 +2,7 @@ import '../App.css';
 import Celebration from './Celebration';
 import Navbar from './Navbar';
 import Speakers from './Speakers';
+import Sponsors from './Sponsors';
 import Venue from './Venue';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Venue/>
       <Speakers/>
       <Celebration/>
+      <Sponsors/>
     </div>
   );
 }

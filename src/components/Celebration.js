@@ -3,6 +3,7 @@ import React from 'react'
 function Celebration() {
   return (
     <section className='celebration-container'>
+      <div className='celebration-container-small'>
         <div className='celebration'>
             <h2> 20 Years of Rails </h2>
         </div>
@@ -12,6 +13,7 @@ function Celebration() {
             <p> (Yes, there was cake.) </p>
             <button> Click here.</button>
 
+        </div>
         </div>
 
     </section>

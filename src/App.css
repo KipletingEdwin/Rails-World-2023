@@ -259,7 +259,14 @@
   border-top: none;
   display: flex;
   flex-direction: row;
-  background-color: #F3EDFF;
+  /* background-color: #F8DBDB; */
+ }
+
+ .celebration-container-small{
+  background-color: #F8DBDB;
+  padding: 20px;
+  margin: 5%;
+
  }
 
  .celebration{
@@ -268,36 +275,93 @@
 
  .celebration h2{
   color: #3B1D62;
-  font-size: 1.5em;
+  font-size: 35px;
   font-weight: bold;
   padding: 10px;
   margin: 30px;
-  background-color: aqua;
+  /* background-color: aqua; */
  }
 
  .milestone{
-  background-color: blue;
+  text-align: left;
  }
 
  .milestone p{
-  background-color: yellow;
+  /* background-color: yellow; */
   padding: 10px;
-  margin: 20px;
+  color: #BF281C;
+  margin: 20px 0;
+  font-size: 22px;
   line-height: 1.5em;
-  font-weight: 500;
-  width: 90%;
+  font-weight: 700;
  }
 
  .milestone button{
   background-color: transparent;
   background-color: #BF281C;
   margin: 20px;
-  padding: 10px;
-  width: 110px;
+  padding: 10px 39px;
+  font-size: 18px;
   color: white;
   cursor: pointer;
   border: 0.7px solid white;
-  font-size: 85%;
+  
  }
+
+ /* Sponsors-styles of the sponsors container */
+
+ .sponsors-container{
+  margin: 0px 10%;
+  /* border: 1px solid white;
+  border-top: none; */
+  text-align: left;
+  color: white;
+ }
+
+ .thankYou{
+  /* background-color: yellow; */
+  padding: 20px;
+  margin: 0 5%;
+ }
+
+ .thankYou h2{
+  font-size: 45px;
+ }
+
+ .thankYou p{
+  font-size: 23px;
+  padding: 0 0 45px;
+  /* background-color: yellow; */
+ }
+
+ .bordered-container{
+  background-color: #3B1D62;
+  padding: 20px;
+  margin: 0 5%;
+ }
+
+ .flex-container{
+  background-color: #A386FF;
+ }
+
+ .sponsors{
+  background-color: aqua;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+ }
+
+ .sponsors img{
+  height: 60px;
+ }
+
+ .babbel{
+  display: flex;
+  flex-direction: column;
+ }
+
+
+
+
 
 
