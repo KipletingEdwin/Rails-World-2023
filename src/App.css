@@ -346,18 +346,27 @@
 
  .sponsors{
   background-color: aqua;
-  margin: 5px;
+  margin: 15px 10px;
   padding: 5px;
   text-align: center;
  }
 
  .sponsors img{
   height: 60px;
+  margin: 10px;
  }
 
  .babbel{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  margin: 15px 5%;
+  /* background-color: greenyellow; */
+ }
+
+ .rest-of-sponsors{
+   background-color: greenyellow;
  }
 
 
