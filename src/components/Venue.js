@@ -15,7 +15,6 @@ function Venue() {
                 features and best practices in Rails development. There were 700+ Rails 
                  developers in attendance, 29 speakers, and one big birthday celebration. </p>
         </div>
-
     </section>
    
   )

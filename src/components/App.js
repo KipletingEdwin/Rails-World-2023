@@ -1,5 +1,6 @@
 import '../App.css';
 import Celebration from './Celebration';
+import Footer from './Footer';
 import Navbar from './Navbar';
 import Speakers from './Speakers';
 import Sponsors from './Sponsors';
@@ -13,6 +14,7 @@ function App() {
       <Speakers/>
       <Celebration/>
       <Sponsors/>
+      <Footer/>
     </div>
   );
 }

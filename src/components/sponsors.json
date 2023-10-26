@@ -1,0 +1,178 @@
+
+
+[
+  {
+    "name": "appSignal",
+    "image": "../assets/sponsors/appSignal",
+    "alt": "appSignal",
+    "link": "https://www.appsignal.com/"
+  },
+  {
+    "name": "Babbel",
+    "image": "../assets/sponsors/babbel.svg",
+    "alt": "Babbel",
+    "link": "https://www.babbel.com/"
+  },
+  {
+    "name": "shopify",
+    "image": "../assets/sponsors/shopify.svg",
+    "alt": "shopify",
+    "link": "https://www.shopify.com/"
+  },
+  {
+    "name": "viaEurope",
+    "image": "../assets/sponsors/viaeurope.svg",
+    "alt": "viaEurope",
+    "link": "https://www.viaeurope.com/"
+  },
+  {
+    "name": "crunchy",
+    "image": "../assets/sponsors/crunchydata.svg",
+    "alt": "crunchy",
+    "link": "https://www.crunchydata.com/"
+  },
+  {
+    "name": "github",
+    "image": "../assets/sponsors/github.svg",
+    "alt": "github",
+    "link": "https://www.github.com/"
+  },
+  {
+    "name": "magmalabs",
+    "image": "../assets/sponsors/magmalabs.svg",
+    "alt": "magmalabs",
+    "link": "https://www.magmalabs.io/"
+  },
+  {
+    "name": "wafris",
+    "image": "../assets/sponsors/wafris.svg",
+    "alt": "wafris",
+    "link": "https://wafris.org/"
+  },
+  {
+    "name": "zilverline",
+    "image": "../assets/sponsors/zilverline.svg",
+    "alt": "zilverline",
+    "link": "https://www.zilverline.com/"
+  },
+  {
+    "name": "buzzsprout",
+    "image": "../assets/sponsors/buzzsprout.svg",
+    "alt": "buzzsprout",
+    "link": "https://www.buzzsprout.com/"
+  },
+  {
+    "name": "leWagon",
+    "image": "../assets/sponsors/lewagon.svg",
+    "alt": "leWagon",
+    "link": "https://www.lewagon.com/"
+  },
+  {
+    "name": "dellTechnologies",
+    "image": "../assets/sponsors/appSignal",
+    "alt": "dellTechnologies",
+    "link": "https://www.dell.com/"
+  },
+  {
+    "name": "cedarCode",
+    "image": "../assets/sponsors/cedarcode.svg",
+    "alt": "cedarCode",
+    "link": "https://www.cedarcode.com/"
+  },
+  {
+    "name": "zapFloor",
+    "image": "../assets/sponsors/zapfloor.svg",
+    "alt": "zapFloor",
+    "link": "https://www.zapfloor.com/"
+  },
+  {
+    "name": "goRails",
+    "image": "../assets/sponsors/gorails.svg",
+    "alt": "goRails",
+    "link": "https://gorails.com/"
+  },
+  {
+    "name": "jetBrains",
+    "image": "../assets/sponsors/jetbrains1.svg",
+    "alt": "jetBrains",
+    "link": "https://www.jetbrains.com/"
+  },
+  {
+    "name": "ronpslomb",
+    "image": "../assets/sponsors/rompslomb2.svg",
+    "alt": "ronpslomb",
+    "link": "https://rompslomp.nl/"
+  },
+  {
+    "name": "funnels",
+    "image": "../assets/sponsors/clickfunnels.svg",
+    "alt": "funnels",
+    "link": "https://www.clickfunnels.com/"
+  },
+  {
+    "name": "wizards",
+    "image": "../assets/sponsors/wizards.svg",
+    "alt": "wizards",
+    "link": "https://clearcodewizards.com/"
+  },
+  {
+    "name": "gleam",
+    "image": "../assets/sponsors/gleam.svg",
+    "alt": "gleam",
+    "link": "https://gleam.io/"
+  },
+  {
+    "name": "cookpad",
+    "image": "../assets/sponsors/cookpad.svg",
+    "alt": "cookpad",
+    "link": "https://cookpad.com/"
+  },
+  {
+    "name": "doximity",
+    "image": "../assets/sponsors/doximity.svg",
+    "alt": "doximity",
+    "link": "https://www.doximity.com/"
+  },
+  {
+    "name": "fleetio",
+    "image": "../assets/sponsors/fleetio.svg",
+    "alt": "fleetio",
+    "link": "https://www.fleetio.com/"
+  },
+  {
+    "name": "intercom",
+    "image": "../assets/sponsors/intercom.svg",
+    "alt": "intercom",
+    "link": "https://www.intercom.com/"
+  },
+  {
+    "name": "procore",
+    "image": "../assets/sponsors/procore.svg",
+    "alt": "procore",
+    "link": "https://procore.com/"
+  },
+  {
+    "name": "signals",
+    "image": "../assets/sponsors/37signals.svg",
+    "alt": "signals",
+    "link": "https://37signals.com/"
+  },
+  {
+    "name": "planet",
+    "image": "../assets/sponsors/planet-argon.png",
+    "alt": "planet",
+    "link": "https://www.planetargon.com/"
+  },
+  {
+    "name": "bigBinary",
+    "image": "../assets/sponsors/bibbinary.svg",
+    "alt": "bigBinary",
+    "link": "https://www.bigbinary.com/"
+  },
+  {
+    "name": "renuo",
+    "image": "../assets/sponsors/renuo.svg",
+    "alt": "renuo",
+    "link": "https://www.renuo.ch/"
+  }
+]
