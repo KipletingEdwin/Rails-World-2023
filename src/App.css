@@ -373,8 +373,49 @@
  /* Footer */
 
  .myFooter{
+  margin: 0px 10%;
   color: white;
   line-height: 150%;
+  background-color: yellow;
+ }
+
+ .myFooter p{
+  margin: 10px 20px;
+  padding: 10px 30px;
+  background-color: green;
+ }
+
+ @media screen and (max-width:830px){
+  .myFooter{
+    margin: 0px;
+  }
+
+  .myFooter p{
+    margin: 0px;
+    padding: 3px;
+    font-weight: 300;
+  }
+
+  .myFooter ul{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    color: white;
+    text-align: center;
+    justify-content: center;
+  }
+  .myFooter ul li{
+    /* background-color: #A386FF; */
+    padding: 5px;
+    margin: 5px;
+    list-style: none;
+ 
+  }
+
+  .myFooter ul li a{
+    margin: 3px;
+    background-color: aquamarine;
+  }
  }
 
 
