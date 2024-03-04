@@ -1,0 +1,103 @@
+.container{
+    /* background-color: yellow; */
+    border: 1px solid #fff;
+    margin: 0% 5%;
+}
+
+/* .wrapperContainer{
+    background-color: green;
+} */
+
+.innerWrapperContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.title{
+    font-size: 68px;
+    font-weight: 600;
+    /* background-color: yellow; */
+    padding: 5px;
+}
+
+.innerWrapperContainer p{
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    /* background-color: aqua; */
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.locationContainer{
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+.location{
+    /* background-color: yellow; */
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+}
+
+.location:hover{
+    text-decoration: underline;
+}
+
+.placeIcon{
+    /* background-color: chartreuse; */
+    font-size: 30px;
+}
+
+.linkButton{
+ 
+    text-align: center;
+    padding: 10px 40px; 
+    background-color: #3B1D62;
+    list-style: none;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+.videosContainer{
+    background-color: blue;
+}
+
+.descriptionContainer{
+    /* background-color: yellow; */
+    /* border: 3px solid red; */
+    margin-top: 30px;
+    border: 1px solid #fff;
+    border-left: none;
+    border-right: none;
+   
+}
+
+.description{
+    /* background-color: green; */
+    margin: 15px 5px;
+    /* border: 3px solid red;  */
+}
+
+.description p{
+    color: #fff;
+    font-size: 23px;
+    font-weight: 400;
+    /* background-color: blue; */
+    margin: 0% 15%;
+}
+
+
+
+

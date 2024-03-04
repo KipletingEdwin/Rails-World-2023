@@ -11,6 +11,7 @@ function Navbar() {
           Toronto. More details soon!
         </p>
       </div>
+      <div className={styles.wholeContainer}>  
       <div className={styles.lowerContainer}>
         <div className={styles.railsImage}>
           <a href="/world/2023">
@@ -34,6 +35,8 @@ function Navbar() {
           </ul>
         </div>
       </div>
+      </div>
+
     </section>
   );
 }

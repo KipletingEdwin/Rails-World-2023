@@ -15,13 +15,17 @@
     line-height: 26px; 
 }
 
+.wholeContainer{
+    border: 1px solid #fff;
+}
+
 .lowerContainer{
     /* background-color: yellow; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin: 0% 5%;
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     border-top: none;
     border-left: none;
     border-right: none;
@@ -49,7 +53,7 @@
     /* background-color: blueviolet; */
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     
 }
 
@@ -76,6 +80,7 @@
     background-color: #3B1D62;
     list-style: none;
     border: 1px solid #fff;
+    cursor: pointer;
 }
 
 .linkButton a{
@@ -83,5 +88,70 @@
     text-decoration: none;
     font-size: 20px;
     font-weight: 400;
+}
+
+@media screen and (max-width: 830px) {
+
+    /* .upperContainer{
+        background-color: green;
+    } */
+
+    .upperContainer p{
+        /* background-color: yellow; */
+        margin: 5px;
+        font-size: 12px;
+        padding: 0;
+    }
+    .lowerContainer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .railsImage{
+        /* background-color: yellow; */
+        width: 100%;
+        margin: 1%;
+    }
+
+    .railsImage img{
+        /* background-color: green; */
+        width: 100%;
+        height: auto;
+    }
+
+    .linksContainer{
+        /* background-color: green; */
+        width: 100%;
+    }
+    .links{
+        /* background-color: purple; */
+        width: 100%;
+        /* justify-content: space-between; */
+        padding: 0;
+        margin: 0;
+    }
+
+    .link{
+        /* background-color: aquamarine; */
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 2px;
+        margin: 0px;
+    }
+
+    .link a{
+        /* background-color: green; */
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .linkButton{
+        padding: 0;
+       
+    }
+
+  
 }
 
