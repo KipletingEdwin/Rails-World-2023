@@ -92,10 +92,13 @@
 
 .description p{
     color: #fff;
-    font-size: 23px;
-    font-weight: 400;
+    font-size: 25px;
+    font-weight: 580;
     /* background-color: blue; */
-    margin: 0% 15%;
+    margin: 0% 26%;
+    padding: 3% 1%;
+    line-height: 1.5;
+    font-family: "Acumin Variable Concept";
 }
 
 
